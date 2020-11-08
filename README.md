@@ -1,4 +1,4 @@
-# NBA-Salary-Prediction
+# NBA Salary Prediction
 
 * Crawled data from [Basketball Reference](https://www.basketball-reference.com)
 * Data: Salary Details for NBA Players of the season 19/20, Multiple NBA Player Stats per game of the seasons 18/19 and 17/18
