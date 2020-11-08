@@ -7,3 +7,5 @@
 * Main Insight: Strong positive linear correlation between Salary and Points, Turnover and Assists per game 
 * Build Machine-Learning-Models (such as Ridge, Lasso Regression and XG-Boost) to create a prediction model
 * Tried to avoid the problem of high multicollinearity in the dataset
+
+![alt_text](https://github.com/abdumaa/NBA-Salary-Prediction/blob/main/__results___61_1.png)
